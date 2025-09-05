@@ -13,6 +13,18 @@
   </p>
   
   ### 📱 Products developed by me
+   <p>
+  飞流AI - 让AI角色温暖你的每一天。
+  </p>
+  
+  <p>
+  产品新上线:进入app反馈页面，参与活动即可获得免费飞流AI会员。
+  </p>
+  
+  <p>
+    <a href="https://apps.apple.com/cn/app/%E9%A3%9E%E6%B5%81ai/id6749163909"><img src="https://axisera.com/wp-content/uploads/2023/11/appstore-download.png" height="35" style="border-radius: 35px;"></a>
+    <a href="https://play.google.com/store/apps/details?id=com.axisera.feelio"><img src="https://axisera.com/wp-content/uploads/2023/11/google-download.png" height="35" style="border-radius: 35px;"></a>
+  </p>
   <p>
   Bubbble AI - 10分钟捏个能说会唱的AI虚拟角色。
   </p>
@@ -24,7 +36,6 @@
   <p>
     <a href="https://apps.apple.com/us/app/bubbble-ai/id6503120297"><img src="https://axisera.com/wp-content/uploads/2023/11/appstore-download.png" height="35" style="border-radius: 35px;"></a>
     <a href="https://play.google.com/store/apps/details?id=com.axisera.bubbble"><img src="https://axisera.com/wp-content/uploads/2023/11/google-download.png" height="35" style="border-radius: 35px;"></a>
-    <a href="https://www.producthunt.com/posts/bubbble-ai?embed=true&utm_source=badge-featured&utm_medium=badge&utm_souce=badge-bubbble&#0045;ai" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=735767&theme=light" alt="Bubbble&#0032;AI - Make&#0032;AI&#0032;characters&#0032;that&#0032;can&#0032;talk&#0044;&#0032;sing&#0044;&#0032;and&#0032;make&#0032;expressions | Product Hunt"height="35" /></a>  
   </p>
 
   <p>
